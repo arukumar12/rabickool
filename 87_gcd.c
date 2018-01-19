@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-int gcd(int p,int q)
+int gcd(int a,int b)
 {
 if(a==0||b==0)
 return 0;
